@@ -2,7 +2,8 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		String name (jose)
+		System.out.println("1 cambio - Consola");
+		System.out.println("1 cambio - Eclipse");
 
 	}
 
